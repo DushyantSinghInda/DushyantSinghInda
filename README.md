@@ -99,9 +99,8 @@ AWS (EC2, S3) • Azure VM • Docker • CI/CD
 
 ## 📫 Connect With Me
 
-- 📧 dushyantofficial2989@gmail.com
-- 💼 LinkedIn: linkedin.com/in/dushyant-singh-inda
-- 💻 GitHub: github.com/DushyantSinghInda
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:dushyantofficial2989@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-singh-inda)
 
 ---
 
