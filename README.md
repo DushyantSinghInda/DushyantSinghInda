@@ -1,7 +1,9 @@
 # Hi 👋 I'm Dushyant Singh
 
 Full Stack Developer | AI Systems Engineer | Backend Architect  
-Jaipur, India 🇮🇳 | Open to Remote (Europe-friendly time zones)
+Jaipur, India 🇮🇳 | Open to remote & relocation
+
+🌐 **[dushyantsingh.thefinlytic.com](https://dushyantsingh.thefinlytic.com)** — portfolio & engineering case studies
 
 ---
 
@@ -42,7 +44,7 @@ I focus on:
 - Advanced AI system design (RAG, vector DBs, evaluation pipelines)
 - Distributed systems & microservices
 - Performance optimization at scale
-- Preparing for European engineering roles
+- System design & architecture at production scale.
 
 ---
 
@@ -70,20 +72,24 @@ AWS (EC2, S3) • Azure VM • Docker • CI/CD
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Enterprise Chatbot Platform
+### 🤖 AI Chat Agent
 - Multi-tenant RAG architecture
 - Qdrant vector database
 - Multi-LLM abstraction layer
 - RBAC-based enterprise access control
 - Redis caching for low-latency responses
 
+📖 [Read the full case study →](https://dushyantsingh.thefinlytic.com/projects/ai-chat-agent)
+
 ---
 
-### 🕶 AR Visualization Platform
+### 🕶 AR Visualization Plugin
 - Backend system for 3D asset handling
 - Media optimization pipelines
 - Scalable API architecture
 - 500+ AR visualizations delivered
+
+📖 [Read the full case study →](https://dushyantsingh.thefinlytic.com/projects/ar-plugin)
 
 ---
 
@@ -99,8 +105,8 @@ AWS (EC2, S3) • Azure VM • Docker • CI/CD
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:dushyantofficial2989@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-singh-inda)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-3B82F6?logo=googlechrome&logoColor=white)](https://dushyantsingh.thefinlytic.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-singh-full-stack-dev)
 
 ---
 
