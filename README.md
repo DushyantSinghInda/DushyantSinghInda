@@ -1,4 +1,4 @@
-# Hi 👋 I'm Dushyant Singh
+# Hi 👋 I'm Dushyant Singh Inda
 
 Full Stack Developer | AI Systems Engineer | Backend Architect  
 Currently building SaaS & AI platforms at **[Krishna Padam IT Solutions](https://kpis.in/)**  
@@ -106,11 +106,15 @@ food safety records with a connected system of audits, corrective actions and te
 ---
 
 ### 🕶 AR Visualization Plugin
+
+![Status](https://img.shields.io/badge/status-live%20in%20production-22C55E)
+
+- 17 client websites live on a single multi-tenant platform
+- 1,000+ shopper AR views per month
 - Backend system for 3D asset handling
 - Media optimization pipelines
 - Scalable API architecture
 - Asset storage and versioning through my in-house Document Service
-- 500+ AR visualizations supported
 
 📖 [Read the full case study →](https://dushyantsingh.thefinlytic.com/projects/ar-plugin)
 
